@@ -1,0 +1,7 @@
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Host\obj\Debug\net6.0\Butterfly.Account.Host.csproj.AssemblyReference.cache
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Host\obj\Debug\net6.0\Butterfly.Account.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Host\obj\Debug\net6.0\Butterfly.Account.Host.AssemblyInfoInputs.cache
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Host\obj\Debug\net6.0\Butterfly.Account.Host.AssemblyInfo.cs
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Host\obj\Debug\net6.0\Butterfly.Account.Host.csproj.CoreCompileInputs.cache
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Host\obj\Debug\net6.0\Butterfly.Account.Host.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Host\obj\Debug\net6.0\Butterfly.Account.Host.MvcApplicationPartsAssemblyInfo.cache

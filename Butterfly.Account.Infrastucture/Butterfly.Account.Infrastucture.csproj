@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Butterfly.Account.Application\Butterfly.Account.Application.csproj" />
+      <ProjectReference Include="..\Butterfly.Account.Common\Butterfly.Account.Common.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="2.2.0" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.6" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Butterfly.Account.Application\Butterfly.Account.Application.csproj" />
+      <ProjectReference Include="..\Butterfly.Account.Common\Butterfly.Account.Common.csproj" />
+      <ProjectReference Include="..\Butterfly.Account.Domain\Butterfly.Account.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

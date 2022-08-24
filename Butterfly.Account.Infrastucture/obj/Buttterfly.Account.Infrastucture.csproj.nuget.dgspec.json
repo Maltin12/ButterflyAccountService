@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\malting\\RiderProjects\\Butterfly.Account\\Buttterfly.Account.Infrastucture\\Buttterfly.Account.Infrastucture.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\malting\\RiderProjects\\Butterfly.Account\\Buttterfly.Account.Infrastucture\\Buttterfly.Account.Infrastucture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\malting\\RiderProjects\\Butterfly.Account\\Buttterfly.Account.Infrastucture\\Buttterfly.Account.Infrastucture.csproj",
+        "projectName": "Buttterfly.Account.Infrastucture",
+        "projectPath": "C:\\Users\\malting\\RiderProjects\\Butterfly.Account\\Buttterfly.Account.Infrastucture\\Buttterfly.Account.Infrastucture.csproj",
+        "packagesPath": "C:\\Users\\malting\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\malting\\RiderProjects\\Butterfly.Account\\Buttterfly.Account.Infrastucture\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\malting\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

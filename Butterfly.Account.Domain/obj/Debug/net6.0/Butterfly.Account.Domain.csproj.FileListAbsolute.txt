@@ -1,0 +1,12 @@
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Domain\bin\Debug\net6.0\Butterfly.Account.Domain.deps.json
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Domain\bin\Debug\net6.0\Butterfly.Account.Domain.dll
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Domain\bin\Debug\net6.0\Butterfly.Account.Domain.pdb
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Domain\obj\Debug\net6.0\Butterfly.Account.Domain.csproj.AssemblyReference.cache
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Domain\obj\Debug\net6.0\Butterfly.Account.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Domain\obj\Debug\net6.0\Butterfly.Account.Domain.AssemblyInfoInputs.cache
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Domain\obj\Debug\net6.0\Butterfly.Account.Domain.AssemblyInfo.cs
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Domain\obj\Debug\net6.0\Butterfly.Account.Domain.csproj.CoreCompileInputs.cache
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Domain\obj\Debug\net6.0\Butterfly.Account.Domain.dll
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Domain\obj\Debug\net6.0\refint\Butterfly.Account.Domain.dll
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Domain\obj\Debug\net6.0\Butterfly.Account.Domain.pdb
+C:\Users\malting\RiderProjects\Butterfly.Account\Butterfly.Account.Domain\obj\Debug\net6.0\ref\Butterfly.Account.Domain.dll
